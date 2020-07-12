@@ -1,4 +1,4 @@
-# Data Mods Introduction
+# Introduction
 
 > SIM-1-0
 
