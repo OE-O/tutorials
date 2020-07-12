@@ -8,7 +8,7 @@ description: 'How to send in work and get it reviewed, get tips. etc.'
 
 Once every few pages, there will be a small "Work" task you can complete. These tasks are completely optional but aid your learning experience.
 
-The "Work" will state what is required, what tools you will need and a small hint of how to complete it. The "Work" will also have an ID, keep this safe as you will need it when creating an issue on the github with the work files.
+The "Work" will state what is required, what tools you will need and a small hint of how to complete it. The "Work" will also have an ID, keep this safe as you will need it when creating an issue on the GitHub with the work files.
 
 The work ID is the top greyed out text inside the "Work" box, work IDs go along this format:
 
@@ -16,7 +16,7 @@ The work ID is the top greyed out text inside the "Work" box, work IDs go along 
 {Track Tag}-{Page Number}-[Page Part-]W
 ```
 
-Once you have completed the "Work" task, put the files into a .zip and [create a issue on the github.](https://github.com/OE-O/tutorials/issues/new/choose)
+Once you have completed the "Work" task, put the files into a .zip and [create an issue on GitHub.](https://github.com/OE-O/tutorials/issues/new/choose)
 
 We will review the tasks you have uploaded and give you a grade from zero to ten, with zero being its ~~shit~~ nothing to do with the task and ten being its perfect.
 
@@ -28,22 +28,22 @@ We will review the tasks you have uploaded and give you a grade from zero to ten
 {% tab title="Work" %}
 > SCM-5-W
 
-Create a nodejs script like the one you saw above that copies c\# files \(.cs\) into a DLLMod folder.
+Create a Node.js script like the one you saw above that copies c\# files \(.cs\) into a DLLMod folder.
 
 #### You will need:
 
-* A code editor, preferably visual studio code or atom.
-* NodeJS [\(You can find a download here\)](https://nodejs.org)
+* A code editor, preferably Visual Studio Code or Atom.
+* Node.js [\(You can find a download here\)](https://nodejs.org)
 
 #### Requirements to get a ten:
 
 * Use under 3 lines.
-* Copy only c\# files \(.cs\) and nothing else.
+* Copy only C\# files \(.cs\) and nothing else.
 * Explain how it works.
 
 #### What to upload:
 
-* A screenshot of the c\# files in a DLLMod folder.
+* A screenshot of the C\# files in a DLLMod folder.
 * Upload the .js script in a zip.
 
 #### How to:
