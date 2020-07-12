@@ -22,5 +22,5 @@
   * [Name Generators](sim-1/data-mods-introduction/name-generators.md)
   * [Personalties](sim-1/data-mods-introduction/personalties.md)
   * [SIPL](sim-1/data-mods-introduction/sipl.md)
-* [Your First Mod](sim-1/your-first-mod.md)
+* [Your First Software Type](sim-1/your-first-mod.md)
 
