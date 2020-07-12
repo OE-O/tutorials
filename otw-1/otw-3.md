@@ -38,12 +38,32 @@ Create a nodejs script like the one you saw above that copies c\# files \(.cs\) 
 #### Requirements to get a ten:
 
 * Use under 3 lines.
+* Copy only c\# files \(.cs\) and nothing else.
 * Explain how it works.
 
 #### What to upload:
 
 * A screenshot of the c\# files in a DLLMod folder.
-* 
+* Upload the .js script in a zip.
+
+#### How to:
+
+1. Create a JavaScript file and write the script inside, try your best to aim for a ten using the requirements.
+2. Open a terminal where the script is located and run the following command, replacing scriptFile with the name of the script:
+
+```bash
+node (scriptFile).js
+```
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="OTW" %}
+If you are following the track "OTW".
+
+#### Previous page: [OTW-2 Code](otw-2.md)
+
+#### Next page:[ ](otw-2.md)OTW-4 Now what?
 {% endtab %}
 {% endtabs %}
 

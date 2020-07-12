@@ -20,17 +20,17 @@ If you are wondering what we use, we use [PolaCode ](https://github.com/octref/p
 
 You can easily separate your c\# files and copy them to a DLLMod folder using a simple nodejs script.
 
-This script will copy all files with the file extension of `.txt` into the "anotherFolder" folder.
+This script will copy all files in the same folder as the script with the file extension of `.txt` into the "anotherFolder" folder.
 
 ![Code snippet from script.js](../.gitbook/assets/example-code-otw2.png)
 
 {% tabs %}
 {% tab title="OTW" %}
-if you are following the track "OTW".
+If you are following the track "OTW".
 
-#### Previous page: [OTW-1 Basics](basics.md)
+#### Previous page: [OTW-1 Basics](otw-1.md)
 
-#### Next page:[ ](code.md)[OTW-3 Sending in Work](sending-in-work.md)
+#### Next page:[ ](otw-2.md)[OTW-3 Sending in Work](otw-3.md)
 {% endtab %}
 {% endtabs %}
 

@@ -30,7 +30,7 @@ If you are following the track "OTW".
 
 #### Previous page: _This is the first page on the track._
 
-#### Next page:[ OTW-2 Code](code.md)
+#### Next page:[ OTW-2 Code](otw-2.md)
 {% endtab %}
 {% endtabs %}
 
