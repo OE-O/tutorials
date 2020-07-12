@@ -6,11 +6,11 @@ description: 'In this page, you will get the gist of OE-O Tutorials and how its 
 
 > OTW-1
 
-OE-O Tutorials are linked via a track based system.
+OE-O Tutorials are linked via a track-based system.
 
 Every tutorial chapter has a small tag at the top of the page, you can see this page is currently marked as the following: `OTW-1` 
 
-The tags are formatted as the following:
+The tags are formatted like the following:
 
 {% hint style="info" %}
 Curved brackets usually represent a required variable whilst square tags are optional variables.
@@ -20,7 +20,7 @@ Curved brackets usually represent a required variable whilst square tags are opt
 {Track Tag}-{Page Number}-[Page Part]
 ```
 
-At the bottom of each page, there are two buttons automatically made by GitBook, these buttons will take you to the previous and next page. Above those buttons you can find a tab table that shows you which page is next depending on what tag is at the top of the page.
+At the bottom of each page, there are two buttons automatically made by GitBook, these buttons will take you to the previous and next page. Above those buttons, you can find a tab table that shows you which page is next depending on what tag is at the top of the page.
 
 #### Example:
 

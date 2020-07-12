@@ -18,7 +18,7 @@ The work ID is the top greyed out text inside the "Work" box, work IDs go along 
 
 Once you have completed the "Work" task, put the files into a .zip and [create an issue on GitHub.](https://github.com/OE-O/tutorials/issues/new/choose)
 
-We will review the tasks you have uploaded and give you a grade from zero to ten, with zero being its ~~shit~~ nothing to do with the task and ten being its perfect.
+We will review the tasks you have uploaded and give you a grade from zero to ten, with zero being its ~~shit~~ nothing to do with the task and ten being it is perfect.
 
 #### Example:
 
