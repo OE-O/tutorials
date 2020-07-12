@@ -10,7 +10,7 @@ assignees: cal3432
 <!-- anything surrounded by "<!" is a comment, and wont show up in the work upload. -->
 <!-- {} = required --!>
 <!-- [] = optional --!>
-<!-- Please replace {WORK-ID} with the work-id specified. Clueless? Checkout this page: https://tutorials.oe-o.tk/how-oe-o-tutorials-work/sending-in-work --!>
+<!-- Please replace {WORK-ID} with the work-id specified. Clueless? Checkout this page: https://tutorials.oe-o.tk/otw-1/sending-in-work --!>
 
 [Brief Description]
 
