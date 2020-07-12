@@ -16,7 +16,7 @@ You have finished learning how OE-O Tutorials work, here is some stuff you could
 * Creating open source mods.
 * Creating a Software Inc. Code Mod.
 * Creating a SimAirport Object Mod.
-* Steam Workshop Marketing.
+* [Workshop Item Recognition 101](../wim/wim-1.md)
 
 
 

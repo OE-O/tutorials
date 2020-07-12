@@ -10,7 +10,7 @@
 * [Sending in "Work" tasks](otw-1/otw-3.md)
 * [Now What?](otw-1/otw-4.md)
 
-## Workshop Item Marketing <a id="wim"></a>
+## Workshop Item Recognition 101 <a id="wim"></a>
 
 * [Intro](wim/wim-1.md)
 

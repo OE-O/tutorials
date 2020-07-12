@@ -1,7 +1,8 @@
 ---
 description: >-
-  OE-O Tutorials is a compilation of tutorials for modding games, using GitHub
-  and lots more.
+  OE-O Tutorials is a compilation of tutorials that can aid modders no matter
+  what game they are modding. You can learn how to create an Open Source mod,
+  learn Git and lots more.
 ---
 
 # OE-O Tutorials
