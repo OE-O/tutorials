@@ -22,7 +22,7 @@ You can easily separate your c\# files and copy them to a DLLMod folder using a 
 
 This script will copy all files in the same folder as the script with the file extension of `.txt` into the "anotherFolder" folder.
 
-![](../.gitbook/assets/otw-2_.png)
+![](../.gitbook/assets/otw-2.png)
 
 {% tabs %}
 {% tab title="OTW" %}
@@ -33,4 +33,6 @@ If you are following the track "OTW".
 #### Next page:[ ](otw-2.md)[OTW-3 Sending in Work](otw-3.md)
 {% endtab %}
 {% endtabs %}
+
+
 
