@@ -14,3 +14,7 @@
 
 * [Intro](wim/wim-1.md)
 
+## Software Inc. Modding <a id="sim-1"></a>
+
+* [Data Mods Introduction](sim-1/data-mods-introduction.md)
+
