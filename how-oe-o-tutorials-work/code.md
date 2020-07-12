@@ -24,5 +24,5 @@ This script will copy all files with the file extension of `.txt` into the "anot
 
 ![](../.gitbook/assets/code.png)
 
-\`\`
+Try and modify this script or create your own that filters files ending with `.cs` and copies them into your DLLMod folder.
 
