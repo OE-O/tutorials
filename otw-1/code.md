@@ -16,7 +16,7 @@ If you are wondering what we use, we use [PolaCode ](https://github.com/octref/p
 
 #### Example
 
-> Example taken from SCM
+> Example taken from SCM-5
 
 You can easily separate your c\# files and copy them to a DLLMod folder using a simple nodejs script.
 
