@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [OE-O Tutorials](README.md)
 * [Index](index.md)
 
 ## How OE-O Tutorials Work <a id="otw-1"></a>

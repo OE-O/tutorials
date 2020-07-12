@@ -1,8 +1,12 @@
 ---
-description: Homepage.
+description: >-
+  OE-O Tutorials is a compilation of tutorials for modding games, using GitHub
+  and lots more.
 ---
 
-# Home
+# OE-O Tutorials
+
+
 
 {% hint style="danger" %}
 OE-O Tutorials is not fully completed yet.
