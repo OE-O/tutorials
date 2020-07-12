@@ -10,9 +10,9 @@ description: >-
 
 We will never give you a fully completed piece of code - with exceptions.
 
-We always use code screenshots instead of code blocks, this means you have to read the code instead of copy and pasting.
+We always use code screenshots instead of code blocks, this means you have to read the code instead of just copying and pasting.
 
-If you are wondering what we use, we use [PolaCode ](https://github.com/octref/polacode)
+If you are wondering what we use, we use [Polacode ](https://github.com/octref/polacode)
 
 #### Example
 
