@@ -22,7 +22,23 @@ You can easily separate your c\# files and copy them to a DLLMod folder using a 
 
 This script will copy all files with the file extension of `.txt` into the "anotherFolder" folder.
 
-![](../.gitbook/assets/code.png)
+![Code snippet from script.js](../.gitbook/assets/example-code-otw2.png)
 
 Try and modify this script or create your own that filters files ending with `.cs` and copies them into your DLLMod folder.
+
+Once you've completed the script. You can run it using node.
+
+[You can download node from here.](https://nodejs.org/en/)
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+{% tabs %}
+{% tab title="OTW" %}
+if you are following the track "OTW".
+
+#### Previous page: [OTW-1 Basics](basics.md)
+
+#### Next page:[ ](code.md)
+{% endtab %}
+{% endtabs %}
 
