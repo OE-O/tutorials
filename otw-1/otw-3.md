@@ -32,19 +32,19 @@ Create a Node.js script like the one you saw above that copies c\# files \(.cs\)
 
 #### You will need:
 
-* A code editor, preferably Visual Studio Code or Atom.
+* A code editor, preferably Visual Studio Code or Atom
 * Node.js [\(You can find a download here\)](https://nodejs.org)
 
 #### Requirements to get a ten:
 
-* Use under 3 lines.
-* Copy only C\# files \(.cs\) and nothing else.
-* Explain how it works.
+* Use under 3 lines
+* Copy only C\# files \(.cs\) and nothing else
+* Explain how it works
 
 #### What to upload:
 
-* A screenshot of the C\# files in a DLLMod folder.
-* Upload the .js script in a zip.
+* A screenshot of the C\# files in a DLLMod folder
+* Upload the .js script in a zip
 
 #### How to:
 

@@ -10,10 +10,11 @@ In this guide, we will teach you how to get people to subscribe to your workshop
 
 Many people subscribe to workshop items because:
 
-* It looks good.
-* It removes/fixes an annoying part of the game.
-* It has lots of content.
-* Its very unique.
+* It looks good
+* It stands out
+* It removes/fixes an annoying part of the game
+* It has lots of content
+* It's very unique
 
 
 

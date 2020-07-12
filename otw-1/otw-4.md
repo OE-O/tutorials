@@ -10,12 +10,12 @@ description: >-
 
 You have finished learning how OE-O Tutorials work, here is some stuff you could learn through OE-O Tutorials:
 
-* Using Git to aid your mod creation progress.
-* Creating a Software Inc. Software Mod.
-* Using GitHub to collaborate on mods.
-* Creating open source mods.
-* Creating a Software Inc. Code Mod.
-* Creating a SimAirport Object Mod.
+* Using Git to aid your mod creation progress
+* Creating a Software Inc. Software Mod
+* Using GitHub to collaborate on mods
+* Creating open source mods
+* Creating a Software Inc. Code Mod
+* Creating a SimAirport Object Mod
 * [Workshop Item Recognition 101](../wim/wim-1.md)
 
 
