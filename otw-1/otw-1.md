@@ -22,7 +22,7 @@ Curved brackets usually represent a required variable whilst square tags are opt
 
 At the bottom of each page, there are two buttons automatically made by GitBook, these buttons will take you to the previous and next page. Above those buttons, you can find a tab table that shows you which page is next depending on what tag is at the top of the page.
 
-#### Example:
+### Example:
 
 {% tabs %}
 {% tab title="OTW" %}

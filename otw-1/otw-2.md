@@ -14,7 +14,7 @@ We always use code screenshots instead of code blocks, this means you have to re
 
 If you are wondering what we use, we use [Carbon ](https://carbon.now.sh/)
 
-#### Example
+### Example
 
 > Example taken from SCM-5
 

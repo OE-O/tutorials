@@ -20,7 +20,7 @@ Once you have completed the "Work" task, put the files into a .zip and [create a
 
 We will review the tasks you have uploaded and give you a grade from zero to ten, with zero being its ~~shit~~ nothing to do with the task and ten being it is perfect.
 
-#### Example:
+### Example:
 
 > Example taken from SCM-5
 
