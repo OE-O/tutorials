@@ -3,9 +3,9 @@
 * [Home](README.md)
 * [Index](index.md)
 
-## How OE-O Tutorials Work
+## How OE-O Tutorials Work <a id="otw-1"></a>
 
-* [Basics](how-oe-o-tutorials-work/basics.md)
-* [Code](how-oe-o-tutorials-work/code.md)
-* [Sending in work](how-oe-o-tutorials-work/sending-in-work.md)
+* [Basics](otw-1/basics.md)
+* [Code](otw-1/code.md)
+* [Sending in "Work" tasks](otw-1/sending-in-work.md)
 
