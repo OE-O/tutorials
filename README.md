@@ -7,6 +7,10 @@ description: >-
 
 # OE-O Tutorials
 
+{% hint style="success" %}
+New to OE-O Tutorials? Clueless? [Follow this guide on how OE-O Tutorials is set out.](otw-1/otw-1.md)
+{% endhint %}
+
 {% hint style="danger" %}
 OE-O Tutorials is not fully completed yet.
 {% endhint %}
@@ -17,7 +21,7 @@ Welcome to the OE-O Tutorials. OE-O Tutorials is a compilation of tutorials for 
 
 You can follow our pre-written paths that link into each other, or choose a single chapter from [the index](index.md).
 
-New to OE-O Tutorials? Clueless? [Follow this guide on how OE-O Tutorials is set out.](otw-1/otw-1.md)
+
 
 
 
