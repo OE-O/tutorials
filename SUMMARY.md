@@ -23,4 +23,5 @@
   * [Personalties](sim-1/sim-1/3.md)
   * [SIPL](sim-1/sim-1/4.md)
 * [Your First Software Type](sim-1/sim-2.md)
+* [Creating a Name Generator](sim-1/sim-3.md)
 
