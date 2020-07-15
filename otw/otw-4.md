@@ -11,7 +11,7 @@ description: >-
 You have finished learning how OE-O Tutorials work, here is some stuff you could learn through OE-O Tutorials:
 
 * Using Git to aid your mod creation progress
-* Creating a Software Inc. Software Mod
+* [Creating a Software Inc. Data Mod](../sim/sim-1.md)
 * Using GitHub to collaborate on mods
 * Creating open-source mods
 * Creating a Software Inc. Code Mod
@@ -27,6 +27,8 @@ If you are following the track "OTW".
 #### Previous page: [OTW-3 Sending in "Work" tasks](otw-3.md)
 
 #### Next page:[ ](otw-2.md)_This is the final page in the track OTW_
+
+[Checkout the Index for more tutorials.](../index.md)
 {% endtab %}
 {% endtabs %}
 

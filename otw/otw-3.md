@@ -54,6 +54,8 @@ Create a Node.js script like the one you saw above that copies c\# files \(.cs\)
 ```bash
 node (scriptFile).js
 ```
+
+[\(Clueless on what this is all about? See Sending in "Work" tasks.\)](otw-3.md)
 {% endtab %}
 {% endtabs %}
 

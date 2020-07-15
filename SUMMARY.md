@@ -13,8 +13,9 @@
 ## Workshop Item Recognition 101 <a id="wim"></a>
 
 * [Introduction](wim/wim-1.md)
-* [Descriptions](wim/descriptions.md)
-* [Preview Images](wim/preview-images.md)
+* [Descriptions](wim/wim-2.md)
+* [Preview Images](wim/wim-3.md)
+* [Advertising](wim/advertising.md)
 
 ## Software Inc. Data Modding <a id="sim"></a>
 

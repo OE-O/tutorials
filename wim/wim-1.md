@@ -19,7 +19,6 @@ Many people subscribe to a workshop item because:
 In Workshop Item Recognition 101, you will learn:
 
 * How to make descriptions players will actually be bothered to read
-* How to get likes/favourites
 * How to create high-quality preview pictures
 * How to advertise your item
 
@@ -29,7 +28,7 @@ If you are following the track "WIM".
 
 #### Previous page: _This is the first page on the track._
 
-#### Next page:[ ](../otw/otw-2.md)[WIM-2 Descriptions](descriptions.md)
+#### Next page:[ ](../otw/otw-2.md)[WIM-2 Descriptions](wim-2.md)
 {% endtab %}
 {% endtabs %}
 
