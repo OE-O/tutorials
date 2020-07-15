@@ -2,7 +2,7 @@
 description: Introduction for Workshop Item Recognition
 ---
 
-# Intro
+# Introduction
 
 > wim-1
 
@@ -23,15 +23,13 @@ In Workshop Item Recognition 101, you will learn:
 * How to create high-quality preview pictures
 * How to advertise your item
 
-
-
 {% tabs %}
 {% tab title="WIM" %}
 If you are following the track "WIM".
 
 #### Previous page: _This is the first page on the track._
 
-#### Next page:[ OTW-2 Code](../otw-1/otw-2.md)
+#### Next page:[ ](../otw/otw-2.md)[WIM-2 Descriptions](descriptions.md)
 {% endtab %}
 {% endtabs %}
 

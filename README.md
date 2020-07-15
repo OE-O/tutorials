@@ -8,7 +8,7 @@ description: >-
 # OE-O Tutorials
 
 {% hint style="success" %}
-New to OE-O Tutorials? Clueless? [Follow this guide on how OE-O Tutorials is set out.](otw-1/otw-1.md)
+New to OE-O Tutorials? Clueless? [Follow this guide on how OE-O Tutorials is set out.](otw/otw-1.md)
 {% endhint %}
 
 {% hint style="danger" %}

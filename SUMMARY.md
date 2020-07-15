@@ -3,21 +3,22 @@
 * [OE-O Tutorials](README.md)
 * [Index](index.md)
 
-## How OE-O Tutorials Work <a id="otw-1"></a>
+## How OE-O Tutorials Work <a id="otw"></a>
 
-* [Basics](otw-1/otw-1.md)
-* [Code](otw-1/otw-2.md)
-* [Sending in "Work" tasks](otw-1/otw-3.md)
-* [Now What?](otw-1/otw-4.md)
+* [Basics](otw/otw-1.md)
+* [Code](otw/otw-2.md)
+* [Sending in "Work" tasks](otw/otw-3.md)
+* [Now What?](otw/otw-4.md)
 
 ## Workshop Item Recognition 101 <a id="wim"></a>
 
-* [Intro](wim/wim-1.md)
+* [Introduction](wim/wim-1.md)
 * [Descriptions](wim/descriptions.md)
+* [Preview Images](wim/preview-images.md)
 
-## Software Inc. Data Modding <a id="sim-1"></a>
+## Software Inc. Data Modding <a id="sim"></a>
 
-* [Introduction](sim-1/sim-1.md)
-* [Your First Software Type](sim-1/sim-2.md)
-* [Creating a Name Generator](sim-1/sim-3.md)
+* [Introduction](sim/sim-1.md)
+* [Your First Software Type](sim/sim-2.md)
+* [Creating a Name Generator](sim/sim-3.md)
 

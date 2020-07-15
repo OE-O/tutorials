@@ -31,7 +31,7 @@ Company types define the competitors that the game will simulate. If you don't s
 
 ## Name Generators
 
-The random name generator uses a tree-like structure to generate random strings of words. If you name a name generator the same thing as one of the built-in name generators, they will merge their nodes and words, you can use this to expand the words of a built-in name generator.
+The random name generator uses a tree-like structure to generate random strings of words. If your name a name generator the same thing as one of the built-in name generators, they will merge their nodes and words, you can use this to expand the words of a built-in name generator.
 
 ## Personalities
 
@@ -47,7 +47,7 @@ If are following the track "SIM".
 
 #### Previous page: _This is the first page on the track._
 
-#### Next page:[ ](../otw-1/otw-2.md)[SIM-2 Your First Software Type](sim-2.md)
+#### Next page:[ ](../otw/otw-2.md)[SIM-2 Your First Software Type](sim-2.md)
 {% endtab %}
 {% endtabs %}
 
