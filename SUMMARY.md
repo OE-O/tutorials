@@ -13,6 +13,7 @@
 ## Workshop Item Recognition 101 <a id="wim"></a>
 
 * [Intro](wim/wim-1.md)
+* [Descriptions](wim/descriptions.md)
 
 ## Software Inc. Data Modding <a id="sim-1"></a>
 

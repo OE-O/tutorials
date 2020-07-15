@@ -2,7 +2,9 @@
 
 > SIM-1-0
 
-Data mods can add, change or remove software types, AI company types, name generators and employee personalities. This is all done with TyD files, however, software types can have scripts attached using SIPL
+Data mods can add, change or remove software types, AI company types, name generators and employee personalities. This is all done with TyD files, however, software types can have scripts attached using SIPL.
+
+This guide is for Alpha 11 Modding.
 
 {% hint style="info" %}
 For more information about an item click on its title
