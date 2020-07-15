@@ -24,7 +24,7 @@ You are following the track "WIM".
 
 #### Next page: _This is the final page on the track "WIM"_
 
-[Checkout the Index for more tutorials.](../index.md)
+[Check out the Index for more tutorials.](../index.md)
 {% endtab %}
 {% endtabs %}
 

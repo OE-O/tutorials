@@ -44,7 +44,7 @@ Most people view the description for information. The first 5 lines of the descr
 
 ![Example of description showing when hovering over a workshop item.](../.gitbook/assets/image%20%282%29.png)
 
-Its best to place a TL:DR \(Too Long Didn't Read\).
+It's best to place a TL:DR \(Too Long Didn't Read\).
 
 {% hint style="info" %}
 You can find a cheat sheet on how to use Steam BBCode here: 
