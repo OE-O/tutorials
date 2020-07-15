@@ -8,7 +8,7 @@ description: >-
 
 > OTW-2
 
-We will never give you a fully completed piece of code - with exceptions.
+**We will never give you a fully completed piece of code - with exceptions.**
 
 We always use code screenshots instead of code blocks, this means you have to read the code instead of just copying and pasting.
 
@@ -18,9 +18,9 @@ If you are wondering what we use, we use [Carbon ](https://carbon.now.sh/)
 
 > Example taken from SCM-5
 
-You can easily separate your c\# files and copy them to a DLLMod folder using a simple nodejs script.
+**You can easily separate your c\# files** and copy them to a **DLLMod folder** using a simple NodeJS script.
 
-This script will copy all files in the same folder as the script with the file extension of `.txt` into the "anotherFolder" folder.
+This **script** will copy all files in the same folder as the script with the file extension of `.txt` into the **"anotherFolder"** folder.
 
 ![](../.gitbook/assets/otw-2.png)
 

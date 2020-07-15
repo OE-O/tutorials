@@ -16,12 +16,7 @@
 
 ## Software Inc. Data Modding <a id="sim-1"></a>
 
-* [Introduction](sim-1/sim-1/README.md)
-  * [Software Types](sim-1/sim-1/0.md)
-  * [Company Types](sim-1/sim-1/1.md)
-  * [Name Generators](sim-1/sim-1/2.md)
-  * [Personalties](sim-1/sim-1/3.md)
-  * [SIPL](sim-1/sim-1/4.md)
+* [Introduction](sim-1/sim-1.md)
 * [Your First Software Type](sim-1/sim-2.md)
 * [Creating a Name Generator](sim-1/sim-3.md)
 

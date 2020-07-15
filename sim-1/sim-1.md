@@ -21,23 +21,23 @@ TyD is an easy-to-edit text data language designed for:
 
 In _Software Inc._ TyD is used for **software types**, **company types** and **employee personalities**. For more information about TyD refer to the [official specification](https://github.com/TynanSylvester/TyD).
 
-## [Software Types](0.md)
+## Software Types
+
+**Software Types** are the core of Software Inc, modding allows you to add **Software Types** using **TyD**. An example of this can be seen in the screenshot below:
+
+## Company Types
 
 
 
-## [Company Types](1.md)
+## Name Generators
 
 
 
-## [Name Generators](2.md)
+## Personalities
 
 
 
-## [Personalities](3.md)
-
-
-
-## [SIPL](4.md)
+## SIPL
 
 
 
@@ -45,13 +45,9 @@ In _Software Inc._ TyD is used for **software types**, **company types** and **e
 {% tab title="SIM" %}
 If are following the track "SIM".
 
-This page has subpages:
-
-#### Next Sub-page: [SIM-1-1 Software Types](0.md)
-
 #### Previous page: _This is the first page on the track._
 
-#### Next page:[ ](../../otw-1/otw-2.md)[SIM-2 Your First Software Type](../sim-2.md)
+#### Next page:[ ](../otw-1/otw-2.md)[SIM-2 Your First Software Type](sim-2.md)
 {% endtab %}
 {% endtabs %}
 
