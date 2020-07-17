@@ -8,7 +8,7 @@ Create a file called `MyFirstSoftware.tyd`, open it in a text editor \(we recomm
 
 **You are now ready to begin.**
 
-On the first line write `SoftwareType` This defines the type of TyD table you will be creating. Then open a set of curly brackets `{}` inside these curly brackets create a name record `name "My First Software"`. Continue creating records until your file looks like this:
+On the first line write `SoftwareType`This defines the type of TyD table you will be creating. Then open a set of curly brackets `{}` inside these curly brackets create a name record `name "My First Software"`. Continue creating records until your file looks like this:
 
 ![](../.gitbook/assets/sim-1-a.png)
 
