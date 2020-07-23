@@ -47,7 +47,7 @@ If are following the track "SIM".
 
 #### Previous page: _This is the first page on the track._
 
-#### Next page:[ ](../otw/otw-2.md)[SIM-2 Your First Software Type](sim-2.md)
+#### Next page:[ ](../otw/otw-2.md)[SIM-2 Your First Software Type](sim-2/)
 {% endtab %}
 {% endtabs %}
 

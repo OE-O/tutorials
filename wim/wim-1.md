@@ -1,5 +1,5 @@
 ---
-description: Introduction for Workshop Item Recognition
+description: Introduction for Workshop 101
 ---
 
 # Introduction
