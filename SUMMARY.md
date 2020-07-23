@@ -23,3 +23,7 @@
 * [Your First Software Type](sim/sim-2.md)
 * [Creating a Name Generator](sim/sim-3.md)
 
+## Software Inc Code Modding
+
+* [Introduction](software-inc-code-modding/introduction.md)
+
