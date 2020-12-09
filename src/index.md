@@ -1,5 +1,6 @@
 ---
 home: true
+heroImage: https://oe-o.dev/assets/Logo.png
 tagline: Learn to make mods for games!
 actionText: Begin →
 actionLink: /guide/
