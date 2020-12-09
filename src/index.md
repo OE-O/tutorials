@@ -1,6 +1,5 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: Learn to make mods for games!
 actionText: Begin →
 actionLink: /guide/
