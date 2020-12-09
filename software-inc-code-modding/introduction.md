@@ -1,4 +1,0 @@
-# Introduction
-
-> SIC-1
-

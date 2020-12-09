@@ -1,0 +1,19 @@
+{
+	"name": "OE-O Tutorials",
+	"version": "0.0.1",
+	"description": "Learn to make mods for games!",
+	"main": "index.js",
+	"authors": {
+		"name": "OE-O Modding",
+		"email": "contact@oe-o.dev"
+	},
+	"repository": "https://github.com/OE-O/tutorials",
+	"scripts": {
+		"dev": "vuepress dev src",
+		"build": "vuepress build src"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"vuepress": "^1.5.3"
+	}
+}

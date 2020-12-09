@@ -1,0 +1,3 @@
+# Games
+
+## [Software Inc.](/sinc/)

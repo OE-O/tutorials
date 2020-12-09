@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "oe-o-website"
+  },
+  "targets": {
+    "oe-o-website": {
+      "hosting": {
+        "tutorials": [
+          "oe-o-tutorials"
+        ]
+      }
+    }
+  }
+}
