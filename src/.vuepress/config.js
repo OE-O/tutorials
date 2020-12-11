@@ -12,6 +12,8 @@ module.exports = {
 	],
 
 	themeConfig: {
+		nextLinks: true,
+		prevLinks: true,
 		repo: '',
 		editLinks: false,
 		docsDir: '',
@@ -23,12 +25,12 @@ module.exports = {
 				link: '/guide/',
 			},
 			{
-				text: 'Config',
-				link: '/config/'
+				text: 'Software Inc',
+				link: '/sinc/'
 			},
 			{
-				text: 'VuePress',
-				link: 'https://v1.vuepress.vuejs.org'
+				text: 'OE-O',
+				link: 'https://oe-o.dev'
 			}
 		],
 		sidebar: {
@@ -36,10 +38,42 @@ module.exports = {
 				{
 					title: 'Software Inc',
 					collapsable: false,
-					sidebarDepth: 1,
+					sidebarDepth: 2,
 					children: [
 						'',
-						'getting-started'
+						'getting-started',
+					]
+				},
+				{
+					title: 'Data Mods',
+					collapsable: false,
+					sidebarDepth: 2,
+					children: [
+						'data-mods/',
+					]
+				},
+				{
+					title: 'Code Mods',
+					collapsable: false,
+					sidebarDepth: 2,
+					children: [
+						'code-mods/',
+					]
+				},
+				{
+					title: 'Furniture',
+					collapsable: false,
+					sidebarDepth: 2,
+					children: [
+						'furniture/',
+					]
+				},
+				{
+					title: 'Materials',
+					collapsable: false,
+					sidebarDepth: 2,
+					children: [
+						'materials/',
 					]
 				},
 			],

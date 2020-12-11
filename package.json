@@ -9,7 +9,7 @@
 	},
 	"repository": "https://github.com/OE-O/tutorials",
 	"scripts": {
-		"dev": "vuepress dev src",
+		"dev": "vuepress dev src --temp .temp",
 		"build": "vuepress build src"
 	},
 	"license": "MIT",
