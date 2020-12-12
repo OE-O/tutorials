@@ -29,6 +29,10 @@ module.exports = {
 				link: '/sinc/'
 			},
 			{
+				text: 'Steam 101',
+				link: '/steam-101/'
+			},
+			{
 				text: 'OE-O',
 				link: 'https://oe-o.dev'
 			}
@@ -42,38 +46,42 @@ module.exports = {
 					children: [
 						'',
 						'getting-started',
-					]
-				},
-				{
-					title: 'Data Mods',
-					collapsable: false,
-					sidebarDepth: 2,
-					children: [
-						'data-mods/',
-					]
-				},
-				{
-					title: 'Code Mods',
-					collapsable: false,
-					sidebarDepth: 2,
-					children: [
-						'code-mods/',
-					]
-				},
-				{
-					title: 'Furniture',
-					collapsable: false,
-					sidebarDepth: 2,
-					children: [
-						'furniture/',
-					]
-				},
-				{
-					title: 'Materials',
-					collapsable: false,
-					sidebarDepth: 2,
-					children: [
-						'materials/',
+						{
+							title: 'Data Mods',
+							collapsable: false,
+							sidebarDepth: 2,
+							children: [
+								'data-mods/',
+								'data-mods/software/elements',
+								'data-mods/software/categories',
+								'data-mods/software/features',
+								'data-mods/name-gen',
+							]
+						},
+						{
+							title: 'Code Mods',
+							collapsable: false,
+							sidebarDepth: 2,
+							children: [
+								'code-mods/',
+							]
+						},
+						{
+							title: 'Furniture',
+							collapsable: false,
+							sidebarDepth: 2,
+							children: [
+								'furniture/',
+							]
+						},
+						{
+							title: 'Materials',
+							collapsable: false,
+							sidebarDepth: 2,
+							children: [
+								'materials/',
+							]
+						},
 					]
 				},
 			],
@@ -95,6 +103,7 @@ module.exports = {
 					children: [
 						'languages/TyD',
 						'languages/CSharp',
+						'languages/BBCode',
 					]
 				},
 				{
@@ -106,6 +115,19 @@ module.exports = {
 					]
 				},
 			],
+			'/steam-101/': [
+				{
+					title: 'Steam Workshop',
+					collapsable: false,
+					sidebarDepth: 1,
+					children: [
+						'',
+						'descriptions',
+						'preview-images',
+						'advertising',
+					]
+				},
+			]
 		}
 	},
 
