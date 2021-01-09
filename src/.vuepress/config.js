@@ -92,7 +92,7 @@ module.exports = {
 					sidebarDepth: 1,
 					children: [
 						'',
-						'games',
+						'tutorials',
 						'requesting-content'
 					]
 				},

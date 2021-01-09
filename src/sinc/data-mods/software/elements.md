@@ -23,22 +23,21 @@ To begin with, you will want to set up your `SoftwareType` TyD table. In this th
 | NameGenerator  | The name generator to use for simulated companies or for when the player clicks the name button in the design document. |
 | SubmarketNames | A list of three submarket names, e.g. [ Gameplay; Graphics; Story ]. |
 
-Once you have done this, your file should look something like this:
+In this tutorial we will create a video editor. Once you have done this, your file should look something like this:
 
 ```
 SoftwareType
 	{
-	Name			"Tutorial Software"
-	Description		"This software is part of the OE-O tutorial"
-	Category		Tutorial
+	Name			"Video Editor"
+	Description		"A way to edit your home movie."
+	Category		Video
 	Unlock			1990
 	Random			0.1
-	IdealPrice		50
-	OptimalDevTime	25
-	Popularity		0.8
+	OptimalDevTime	24
 	Retention		18
-	Iterative		0.5
 	OSSupport		True
-	SubmarketNames	[ Market1; Market2; Market3 ]
+	SubmarketNames	[ Accessibility; Speed; Toolset ]
 	}
 ```
+
+You may have noticed that some of the elements have been ommited from our file. This is because we are going to define them in separate categories.
